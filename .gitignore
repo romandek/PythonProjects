@@ -3,3 +3,4 @@
 *.pyc
 /venv
 /PasswordManager/pass_manager.db
+.DS_Store
